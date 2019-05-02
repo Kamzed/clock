@@ -1,2 +1,1 @@
-# clock
-homework
+https://kamzed.github.io/clock/
